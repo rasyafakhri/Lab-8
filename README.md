@@ -3,7 +3,6 @@
 **Mata Kuliah:** Pemrograman Web OBE  
 **Modul Praktikum:** Praktikum 8 - PHP dan Database MySQL  
 **Topik:** Penerapan Konsep CRUD (Create, Read, Update, Delete) Berbasis PHP & MySQL dengan Desain Modern Adaptif  
-**Contributor:** [arenphi](https://github.com/arenphi)  
 
 ---
 
@@ -253,4 +252,3 @@ Website secara otomatis mendeteksi dan menyesuaikan mode tampilan perangkat peng
 ---
 
 *Laporan Praktikum Pemrograman Web OBE - Praktikum 8: PHP dan Database MySQL*  
-*Developed & Documented by: [arenphi](https://github.com/arenphi)*
